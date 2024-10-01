@@ -1,0 +1,6 @@
+Zuhan = 178
+Otherpeople = int(input("Whats ur height in cm?"))
+if Zuhan > Otherpeople:
+    print("Zuhan taller")
+else:
+    print("Zuhan midget")
