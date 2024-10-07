@@ -1,0 +1,6 @@
+MyList = [10,55,61,87,90,100]
+print(sum(MyList))
+print(min(MyList))
+print(max(MyList))
+print(len(MyList))
+print(sum(MyList)/len(MyList))
