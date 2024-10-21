@@ -1,0 +1,9 @@
+Mylist = ["12","20","35","70"]
+Mylist.append("Hongkong")
+Mylist.remove("12")
+print(Mylist)
+
+MyList = ["1", "2", "3", "4"]
+NewCity = input("Please add a city: ")
+MyList.append(NewCity)
+print(MyList)
